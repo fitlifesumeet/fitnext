@@ -1,0 +1,4047 @@
+{
+  "version": 1,
+  "updated": "2025-09-02",
+  "categories": [
+    "vegetarian",
+    "vegan",
+    "balanced",
+    "nonVegetarian",
+    "snacks",
+    "supplements"
+  ],
+  "meals": [
+    {
+      "name": "Paneer Bhurji with Roti",
+      "category": "vegetarian",
+      "mealType": "lunch",
+      "calories": 560,
+      "macros": {
+        "protein": 32,
+        "carbs": 45,
+        "fat": 22
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.vegrecipesofindia.com/paneer-bhurji/"
+    },
+    {
+      "name": "Rajma Chawal",
+      "category": "vegetarian",
+      "mealType": "lunch",
+      "calories": 620,
+      "macros": {
+        "protein": 22,
+        "carbs": 90,
+        "fat": 12
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/rajma-chawal/"
+    },
+    {
+      "name": "Chana Masala + Brown Rice",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 610,
+      "macros": {
+        "protein": 22,
+        "carbs": 98,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/chana-masala/"
+    },
+    {
+      "name": "Grilled Salmon + Sweet Potato",
+      "category": "balanced",
+      "mealType": "dinner",
+      "calories": 620,
+      "macros": {
+        "protein": 42,
+        "carbs": 48,
+        "fat": 22
+      },
+      "allergens": [
+        "fish"
+      ],
+      "link": "https://www.bbcgoodfood.com/recipes/grilled-salmon"
+    },
+    {
+      "name": "Tandoori Chicken + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 640,
+      "macros": {
+        "protein": 48,
+        "carbs": 60,
+        "fat": 16
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/tandoori-chicken/"
+    },
+    {
+      "name": "Egg Omelette + Toast",
+      "category": "balanced",
+      "mealType": "breakfast",
+      "calories": 420,
+      "macros": {
+        "protein": 24,
+        "carbs": 34,
+        "fat": 20
+      },
+      "allergens": [
+        "eggs",
+        "gluten"
+      ],
+      "link": "https://www.bbcgoodfood.com/recipes/basic-omelette"
+    },
+    {
+      "name": "Protein Smoothie",
+      "category": "snacks",
+      "mealType": "snack",
+      "calories": 300,
+      "macros": {
+        "protein": 30,
+        "carbs": 35,
+        "fat": 5
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.healthline.com/nutrition/protein-shake"
+    },
+    {
+      "name": "Whey Protein (1 scoop)",
+      "category": "supplements",
+      "mealType": "snack",
+      "calories": 120,
+      "macros": {
+        "protein": 24,
+        "carbs": 3,
+        "fat": 2
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://examine.com/supplements/whey-protein/"
+    },
+    {
+      "name": "Chickpeas Buddha Bowl + Whole Wheat Roti",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 417,
+      "macros": {
+        "protein": 52,
+        "carbs": 32,
+        "fat": 17
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Chicken Breast Grill Plate + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 424,
+      "macros": {
+        "protein": 45,
+        "carbs": 73,
+        "fat": 8
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Paneer Buddha Bowl + Whole Wheat Pasta",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 669,
+      "macros": {
+        "protein": 25,
+        "carbs": 48,
+        "fat": 26
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Chicken Breast Masala Bowl + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 403,
+      "macros": {
+        "protein": 53,
+        "carbs": 37,
+        "fat": 15
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Tofu Stir Fry + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 666,
+      "macros": {
+        "protein": 29,
+        "carbs": 33,
+        "fat": 24
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Fish (Rohu) Salad Bowl + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 660,
+      "macros": {
+        "protein": 22,
+        "carbs": 92,
+        "fat": 7
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Salmon Buddha Bowl + Cauli Rice",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 618,
+      "macros": {
+        "protein": 47,
+        "carbs": 66,
+        "fat": 15
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Cottage Cheese Grill Plate + Whole Wheat Roti",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 674,
+      "macros": {
+        "protein": 37,
+        "carbs": 87,
+        "fat": 21
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Tilapia Wrap + Cauli Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 440,
+      "macros": {
+        "protein": 50,
+        "carbs": 73,
+        "fat": 11
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Tofu Buddha Bowl + Cauli Rice",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 722,
+      "macros": {
+        "protein": 22,
+        "carbs": 91,
+        "fat": 24
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chickpeas Skillet + Sweet Potato",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 415,
+      "macros": {
+        "protein": 23,
+        "carbs": 54,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Chicken Breast Skillet + Millet",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 577,
+      "macros": {
+        "protein": 40,
+        "carbs": 22,
+        "fat": 20
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Tofu Skillet + Quinoa",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 491,
+      "macros": {
+        "protein": 36,
+        "carbs": 36,
+        "fat": 13
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Lentils Stir Fry + Cauli Rice",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 609,
+      "macros": {
+        "protein": 43,
+        "carbs": 90,
+        "fat": 14
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Black Beans Wrap + Mixed Greens",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 563,
+      "macros": {
+        "protein": 42,
+        "carbs": 49,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Tofu Grill Plate + Whole Wheat Roti",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 386,
+      "macros": {
+        "protein": 49,
+        "carbs": 95,
+        "fat": 11
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Eggs Curry + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 653,
+      "macros": {
+        "protein": 41,
+        "carbs": 98,
+        "fat": 24
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Tofu Masala Bowl + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 728,
+      "macros": {
+        "protein": 53,
+        "carbs": 70,
+        "fat": 18
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Lentils Skillet + Quinoa",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 411,
+      "macros": {
+        "protein": 30,
+        "carbs": 28,
+        "fat": 12
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Tofu Salad Bowl + Quinoa",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 432,
+      "macros": {
+        "protein": 18,
+        "carbs": 92,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Paneer Masala Bowl + Sweet Potato",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 486,
+      "macros": {
+        "protein": 42,
+        "carbs": 39,
+        "fat": 26
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chickpeas Skillet + Sweet Potato",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 439,
+      "macros": {
+        "protein": 49,
+        "carbs": 79,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Eggs Curry + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 555,
+      "macros": {
+        "protein": 34,
+        "carbs": 81,
+        "fat": 28
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Shrimp Grill Plate + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 455,
+      "macros": {
+        "protein": 52,
+        "carbs": 23,
+        "fat": 22
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Fish (Rohu) Wrap + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 465,
+      "macros": {
+        "protein": 40,
+        "carbs": 48,
+        "fat": 23
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Cottage Cheese Salad Bowl + Whole Wheat Pasta",
+      "category": "vegetarian",
+      "mealType": "lunch",
+      "calories": 693,
+      "macros": {
+        "protein": 30,
+        "carbs": 50,
+        "fat": 18
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Salmon Skillet + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 394,
+      "macros": {
+        "protein": 19,
+        "carbs": 55,
+        "fat": 21
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Salmon Skillet + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 566,
+      "macros": {
+        "protein": 23,
+        "carbs": 48,
+        "fat": 9
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Turkey Salad Bowl + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 627,
+      "macros": {
+        "protein": 18,
+        "carbs": 81,
+        "fat": 26
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Cottage Cheese Stir Fry + Quinoa",
+      "category": "vegetarian",
+      "mealType": "snack",
+      "calories": 482,
+      "macros": {
+        "protein": 48,
+        "carbs": 42,
+        "fat": 19
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Paneer Skillet + Mixed Greens",
+      "category": "vegetarian",
+      "mealType": "snack",
+      "calories": 423,
+      "macros": {
+        "protein": 28,
+        "carbs": 41,
+        "fat": 10
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Tofu Curry + Cauli Rice",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 716,
+      "macros": {
+        "protein": 40,
+        "carbs": 39,
+        "fat": 23
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Tofu Masala Bowl + Brown Rice",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 649,
+      "macros": {
+        "protein": 26,
+        "carbs": 75,
+        "fat": 12
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Chicken Breast Grill Plate + Millet",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 636,
+      "macros": {
+        "protein": 33,
+        "carbs": 95,
+        "fat": 16
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Shrimp Curry + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 561,
+      "macros": {
+        "protein": 47,
+        "carbs": 94,
+        "fat": 22
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Black Beans Curry + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 648,
+      "macros": {
+        "protein": 50,
+        "carbs": 22,
+        "fat": 20
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Mutton (lean) Curry + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 452,
+      "macros": {
+        "protein": 48,
+        "carbs": 35,
+        "fat": 23
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Chickpeas Skillet + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 666,
+      "macros": {
+        "protein": 21,
+        "carbs": 51,
+        "fat": 12
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chicken Breast Skillet + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 412,
+      "macros": {
+        "protein": 46,
+        "carbs": 61,
+        "fat": 25
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Mutton (lean) Grill Plate + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 611,
+      "macros": {
+        "protein": 50,
+        "carbs": 88,
+        "fat": 21
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Salmon Wrap + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 609,
+      "macros": {
+        "protein": 26,
+        "carbs": 73,
+        "fat": 9
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Turkey Stir Fry + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 599,
+      "macros": {
+        "protein": 22,
+        "carbs": 47,
+        "fat": 27
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Cottage Cheese Curry + Quinoa",
+      "category": "vegetarian",
+      "mealType": "dinner",
+      "calories": 453,
+      "macros": {
+        "protein": 34,
+        "carbs": 37,
+        "fat": 20
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Tilapia Buddha Bowl + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 463,
+      "macros": {
+        "protein": 32,
+        "carbs": 40,
+        "fat": 28
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Shrimp Salad Bowl + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 480,
+      "macros": {
+        "protein": 40,
+        "carbs": 60,
+        "fat": 8
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chicken Breast Skillet + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 740,
+      "macros": {
+        "protein": 19,
+        "carbs": 69,
+        "fat": 16
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Mutton (lean) Stir Fry + Millet",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 497,
+      "macros": {
+        "protein": 24,
+        "carbs": 30,
+        "fat": 14
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chicken Breast Wrap + Whole Wheat Roti",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 596,
+      "macros": {
+        "protein": 34,
+        "carbs": 71,
+        "fat": 10
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Kidney Beans Skillet + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 425,
+      "macros": {
+        "protein": 35,
+        "carbs": 27,
+        "fat": 28
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Lentils Wrap + Quinoa",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 704,
+      "macros": {
+        "protein": 23,
+        "carbs": 53,
+        "fat": 8
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Black Beans Stir Fry + Basmati Rice",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 442,
+      "macros": {
+        "protein": 47,
+        "carbs": 21,
+        "fat": 16
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Lentils Curry + Millet",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 649,
+      "macros": {
+        "protein": 33,
+        "carbs": 34,
+        "fat": 11
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chicken Breast Grill Plate + Whole Wheat Roti",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 701,
+      "macros": {
+        "protein": 37,
+        "carbs": 87,
+        "fat": 12
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Turkey Curry + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 557,
+      "macros": {
+        "protein": 19,
+        "carbs": 52,
+        "fat": 7
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Chicken Breast Grill Plate + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 505,
+      "macros": {
+        "protein": 46,
+        "carbs": 33,
+        "fat": 27
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Fish (Rohu) Buddha Bowl + Cauli Rice",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 732,
+      "macros": {
+        "protein": 31,
+        "carbs": 49,
+        "fat": 16
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Black Beans Buddha Bowl + Whole Wheat Roti",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 407,
+      "macros": {
+        "protein": 26,
+        "carbs": 21,
+        "fat": 8
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Lentils Masala Bowl + Whole Wheat Roti",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 720,
+      "macros": {
+        "protein": 42,
+        "carbs": 84,
+        "fat": 27
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Mutton (lean) Wrap + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 615,
+      "macros": {
+        "protein": 29,
+        "carbs": 40,
+        "fat": 14
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Chicken Breast Salad Bowl + Millet",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 660,
+      "macros": {
+        "protein": 38,
+        "carbs": 51,
+        "fat": 7
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Salmon Curry + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 551,
+      "macros": {
+        "protein": 42,
+        "carbs": 30,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Shrimp Grill Plate + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 426,
+      "macros": {
+        "protein": 34,
+        "carbs": 31,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Mutton (lean) Buddha Bowl + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 533,
+      "macros": {
+        "protein": 37,
+        "carbs": 49,
+        "fat": 8
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Shrimp Buddha Bowl + Whole Wheat Roti",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 633,
+      "macros": {
+        "protein": 27,
+        "carbs": 56,
+        "fat": 25
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Chicken Breast Buddha Bowl + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 648,
+      "macros": {
+        "protein": 50,
+        "carbs": 92,
+        "fat": 6
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Cottage Cheese Stir Fry + Basmati Rice",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 401,
+      "macros": {
+        "protein": 26,
+        "carbs": 66,
+        "fat": 9
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Black Beans Masala Bowl + Cauli Rice",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 700,
+      "macros": {
+        "protein": 52,
+        "carbs": 51,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chicken Breast Stir Fry + Cauli Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 717,
+      "macros": {
+        "protein": 51,
+        "carbs": 28,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Cottage Cheese Wrap + Quinoa",
+      "category": "vegetarian",
+      "mealType": "lunch",
+      "calories": 485,
+      "macros": {
+        "protein": 32,
+        "carbs": 78,
+        "fat": 21
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Paneer Wrap + Cauli Rice",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 695,
+      "macros": {
+        "protein": 30,
+        "carbs": 29,
+        "fat": 25
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Chickpeas Wrap + Millet",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 386,
+      "macros": {
+        "protein": 48,
+        "carbs": 27,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Fish (Rohu) Grill Plate + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 528,
+      "macros": {
+        "protein": 51,
+        "carbs": 56,
+        "fat": 20
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Turkey Grill Plate + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 423,
+      "macros": {
+        "protein": 48,
+        "carbs": 22,
+        "fat": 15
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Paneer Skillet + Whole Wheat Pasta",
+      "category": "vegetarian",
+      "mealType": "dinner",
+      "calories": 578,
+      "macros": {
+        "protein": 31,
+        "carbs": 46,
+        "fat": 8
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Paneer Wrap + Whole Wheat Roti",
+      "category": "vegetarian",
+      "mealType": "dinner",
+      "calories": 447,
+      "macros": {
+        "protein": 50,
+        "carbs": 55,
+        "fat": 9
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Salmon Skillet + Cauli Rice",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 392,
+      "macros": {
+        "protein": 28,
+        "carbs": 20,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Lentils Curry + Millet",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 556,
+      "macros": {
+        "protein": 42,
+        "carbs": 60,
+        "fat": 9
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chicken Breast Salad Bowl + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 441,
+      "macros": {
+        "protein": 30,
+        "carbs": 21,
+        "fat": 15
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chickpeas Buddha Bowl + Quinoa",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 681,
+      "macros": {
+        "protein": 22,
+        "carbs": 66,
+        "fat": 19
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Black Beans Wrap + Brown Rice",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 406,
+      "macros": {
+        "protein": 36,
+        "carbs": 39,
+        "fat": 13
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Lentils Salad Bowl + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 571,
+      "macros": {
+        "protein": 45,
+        "carbs": 23,
+        "fat": 26
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Kidney Beans Grill Plate + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 405,
+      "macros": {
+        "protein": 44,
+        "carbs": 77,
+        "fat": 25
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Fish (Rohu) Skillet + Millet",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 661,
+      "macros": {
+        "protein": 26,
+        "carbs": 41,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Chickpeas Wrap + Millet",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 714,
+      "macros": {
+        "protein": 34,
+        "carbs": 71,
+        "fat": 26
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Eggs Buddha Bowl + Cauli Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 465,
+      "macros": {
+        "protein": 28,
+        "carbs": 29,
+        "fat": 12
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Kidney Beans Grill Plate + Cauli Rice",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 550,
+      "macros": {
+        "protein": 46,
+        "carbs": 74,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Salmon Stir Fry + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 555,
+      "macros": {
+        "protein": 53,
+        "carbs": 31,
+        "fat": 16
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Chickpeas Grill Plate + Millet",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 591,
+      "macros": {
+        "protein": 42,
+        "carbs": 72,
+        "fat": 22
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Lentils Salad Bowl + Millet",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 635,
+      "macros": {
+        "protein": 35,
+        "carbs": 93,
+        "fat": 17
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Fish (Rohu) Grill Plate + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 518,
+      "macros": {
+        "protein": 33,
+        "carbs": 69,
+        "fat": 18
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Lentils Masala Bowl + Millet",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 396,
+      "macros": {
+        "protein": 45,
+        "carbs": 80,
+        "fat": 24
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Chicken Breast Buddha Bowl + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 609,
+      "macros": {
+        "protein": 33,
+        "carbs": 33,
+        "fat": 13
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Tofu Stir Fry + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 423,
+      "macros": {
+        "protein": 53,
+        "carbs": 25,
+        "fat": 6
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Salmon Wrap + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 700,
+      "macros": {
+        "protein": 34,
+        "carbs": 87,
+        "fat": 26
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Tilapia Stir Fry + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 533,
+      "macros": {
+        "protein": 51,
+        "carbs": 94,
+        "fat": 12
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Eggs Masala Bowl + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 655,
+      "macros": {
+        "protein": 37,
+        "carbs": 78,
+        "fat": 14
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Fish (Rohu) Skillet + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 660,
+      "macros": {
+        "protein": 33,
+        "carbs": 23,
+        "fat": 19
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chicken Breast Grill Plate + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 725,
+      "macros": {
+        "protein": 44,
+        "carbs": 30,
+        "fat": 14
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Fish (Rohu) Salad Bowl + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 632,
+      "macros": {
+        "protein": 20,
+        "carbs": 63,
+        "fat": 28
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Chickpeas Grill Plate + Mixed Greens",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 529,
+      "macros": {
+        "protein": 50,
+        "carbs": 28,
+        "fat": 12
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Salmon Grill Plate + Millet",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 618,
+      "macros": {
+        "protein": 32,
+        "carbs": 53,
+        "fat": 15
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Mutton (lean) Curry + Cauli Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 628,
+      "macros": {
+        "protein": 44,
+        "carbs": 27,
+        "fat": 25
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Kidney Beans Masala Bowl + Mixed Greens",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 392,
+      "macros": {
+        "protein": 27,
+        "carbs": 73,
+        "fat": 7
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Tofu Skillet + Mixed Greens",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 437,
+      "macros": {
+        "protein": 23,
+        "carbs": 41,
+        "fat": 16
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Tofu Skillet + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 539,
+      "macros": {
+        "protein": 42,
+        "carbs": 67,
+        "fat": 16
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Tofu Masala Bowl + Quinoa",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 523,
+      "macros": {
+        "protein": 23,
+        "carbs": 64,
+        "fat": 19
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Shrimp Buddha Bowl + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 538,
+      "macros": {
+        "protein": 45,
+        "carbs": 31,
+        "fat": 7
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Salmon Skillet + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 545,
+      "macros": {
+        "protein": 41,
+        "carbs": 80,
+        "fat": 6
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Salmon Masala Bowl + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 397,
+      "macros": {
+        "protein": 47,
+        "carbs": 28,
+        "fat": 7
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Salmon Salad Bowl + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 519,
+      "macros": {
+        "protein": 39,
+        "carbs": 98,
+        "fat": 7
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Tilapia Wrap + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 381,
+      "macros": {
+        "protein": 22,
+        "carbs": 23,
+        "fat": 13
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Turkey Buddha Bowl + Cauli Rice",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 600,
+      "macros": {
+        "protein": 49,
+        "carbs": 36,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Chicken Breast Curry + Millet",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 547,
+      "macros": {
+        "protein": 38,
+        "carbs": 78,
+        "fat": 17
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Paneer Grill Plate + Whole Wheat Pasta",
+      "category": "vegetarian",
+      "mealType": "snack",
+      "calories": 461,
+      "macros": {
+        "protein": 33,
+        "carbs": 72,
+        "fat": 8
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Turkey Salad Bowl + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 598,
+      "macros": {
+        "protein": 24,
+        "carbs": 29,
+        "fat": 14
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Paneer Stir Fry + Basmati Rice",
+      "category": "vegetarian",
+      "mealType": "snack",
+      "calories": 635,
+      "macros": {
+        "protein": 46,
+        "carbs": 42,
+        "fat": 13
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Lentils Grill Plate + Cauli Rice",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 530,
+      "macros": {
+        "protein": 36,
+        "carbs": 55,
+        "fat": 24
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chickpeas Wrap + Millet",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 604,
+      "macros": {
+        "protein": 33,
+        "carbs": 43,
+        "fat": 13
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Tofu Grill Plate + Millet",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 413,
+      "macros": {
+        "protein": 43,
+        "carbs": 52,
+        "fat": 13
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Shrimp Stir Fry + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 398,
+      "macros": {
+        "protein": 24,
+        "carbs": 20,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Black Beans Salad Bowl + Cauli Rice",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 530,
+      "macros": {
+        "protein": 32,
+        "carbs": 35,
+        "fat": 7
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Mutton (lean) Stir Fry + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 642,
+      "macros": {
+        "protein": 29,
+        "carbs": 77,
+        "fat": 25
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Cottage Cheese Stir Fry + Brown Rice",
+      "category": "vegetarian",
+      "mealType": "dinner",
+      "calories": 491,
+      "macros": {
+        "protein": 20,
+        "carbs": 67,
+        "fat": 16
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Chicken Breast Wrap + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 686,
+      "macros": {
+        "protein": 31,
+        "carbs": 21,
+        "fat": 16
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Fish (Rohu) Curry + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 419,
+      "macros": {
+        "protein": 31,
+        "carbs": 24,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Turkey Buddha Bowl + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 582,
+      "macros": {
+        "protein": 53,
+        "carbs": 39,
+        "fat": 26
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Paneer Buddha Bowl + Whole Wheat Roti",
+      "category": "vegetarian",
+      "mealType": "dinner",
+      "calories": 589,
+      "macros": {
+        "protein": 36,
+        "carbs": 59,
+        "fat": 19
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Eggs Buddha Bowl + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 389,
+      "macros": {
+        "protein": 41,
+        "carbs": 45,
+        "fat": 18
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Salmon Buddha Bowl + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 596,
+      "macros": {
+        "protein": 25,
+        "carbs": 31,
+        "fat": 18
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Kidney Beans Skillet + Sweet Potato",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 446,
+      "macros": {
+        "protein": 18,
+        "carbs": 26,
+        "fat": 23
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Fish (Rohu) Stir Fry + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 638,
+      "macros": {
+        "protein": 28,
+        "carbs": 38,
+        "fat": 17
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Tofu Curry + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 435,
+      "macros": {
+        "protein": 42,
+        "carbs": 82,
+        "fat": 12
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Tofu Skillet + Brown Rice",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 407,
+      "macros": {
+        "protein": 42,
+        "carbs": 31,
+        "fat": 28
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Tilapia Grill Plate + Whole Wheat Roti",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 694,
+      "macros": {
+        "protein": 30,
+        "carbs": 80,
+        "fat": 11
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Salmon Buddha Bowl + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 576,
+      "macros": {
+        "protein": 40,
+        "carbs": 35,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Tilapia Masala Bowl + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 721,
+      "macros": {
+        "protein": 38,
+        "carbs": 35,
+        "fat": 18
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Turkey Wrap + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 537,
+      "macros": {
+        "protein": 33,
+        "carbs": 74,
+        "fat": 18
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Turkey Skillet + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 391,
+      "macros": {
+        "protein": 18,
+        "carbs": 82,
+        "fat": 20
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Turkey Curry + Cauli Rice",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 584,
+      "macros": {
+        "protein": 24,
+        "carbs": 28,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Lentils Stir Fry + Sweet Potato",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 638,
+      "macros": {
+        "protein": 50,
+        "carbs": 25,
+        "fat": 7
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Paneer Stir Fry + Sweet Potato",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 638,
+      "macros": {
+        "protein": 42,
+        "carbs": 37,
+        "fat": 6
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Mutton (lean) Grill Plate + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 631,
+      "macros": {
+        "protein": 36,
+        "carbs": 41,
+        "fat": 27
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Paneer Wrap + Sweet Potato",
+      "category": "vegetarian",
+      "mealType": "lunch",
+      "calories": 545,
+      "macros": {
+        "protein": 35,
+        "carbs": 78,
+        "fat": 10
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Shrimp Grill Plate + Cauli Rice",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 695,
+      "macros": {
+        "protein": 50,
+        "carbs": 50,
+        "fat": 16
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chicken Breast Curry + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 462,
+      "macros": {
+        "protein": 35,
+        "carbs": 61,
+        "fat": 18
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Cottage Cheese Stir Fry + Millet",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 705,
+      "macros": {
+        "protein": 41,
+        "carbs": 77,
+        "fat": 23
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Mutton (lean) Wrap + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 570,
+      "macros": {
+        "protein": 34,
+        "carbs": 68,
+        "fat": 17
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Tofu Salad Bowl + Sweet Potato",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 606,
+      "macros": {
+        "protein": 32,
+        "carbs": 42,
+        "fat": 25
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Eggs Wrap + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 707,
+      "macros": {
+        "protein": 38,
+        "carbs": 20,
+        "fat": 7
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Tofu Buddha Bowl + Millet",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 642,
+      "macros": {
+        "protein": 41,
+        "carbs": 26,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Salmon Masala Bowl + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 381,
+      "macros": {
+        "protein": 54,
+        "carbs": 65,
+        "fat": 15
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Shrimp Grill Plate + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 678,
+      "macros": {
+        "protein": 37,
+        "carbs": 95,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Chickpeas Curry + Cauli Rice",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 387,
+      "macros": {
+        "protein": 33,
+        "carbs": 39,
+        "fat": 20
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Paneer Wrap + Whole Wheat Roti",
+      "category": "vegetarian",
+      "mealType": "snack",
+      "calories": 515,
+      "macros": {
+        "protein": 18,
+        "carbs": 27,
+        "fat": 26
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Kidney Beans Skillet + Sweet Potato",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 507,
+      "macros": {
+        "protein": 28,
+        "carbs": 20,
+        "fat": 7
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Shrimp Buddha Bowl + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 501,
+      "macros": {
+        "protein": 28,
+        "carbs": 27,
+        "fat": 9
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Mutton (lean) Grill Plate + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 591,
+      "macros": {
+        "protein": 30,
+        "carbs": 86,
+        "fat": 25
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Fish (Rohu) Curry + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 412,
+      "macros": {
+        "protein": 37,
+        "carbs": 26,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Chicken Breast Buddha Bowl + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 421,
+      "macros": {
+        "protein": 46,
+        "carbs": 42,
+        "fat": 13
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Eggs Masala Bowl + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 551,
+      "macros": {
+        "protein": 34,
+        "carbs": 26,
+        "fat": 14
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Fish (Rohu) Wrap + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 708,
+      "macros": {
+        "protein": 31,
+        "carbs": 30,
+        "fat": 22
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Tofu Grill Plate + Millet",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 461,
+      "macros": {
+        "protein": 38,
+        "carbs": 44,
+        "fat": 18
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Mutton (lean) Buddha Bowl + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 621,
+      "macros": {
+        "protein": 51,
+        "carbs": 20,
+        "fat": 6
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Tilapia Wrap + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 580,
+      "macros": {
+        "protein": 22,
+        "carbs": 92,
+        "fat": 11
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Chicken Breast Stir Fry + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 698,
+      "macros": {
+        "protein": 28,
+        "carbs": 64,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Chicken Breast Curry + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 736,
+      "macros": {
+        "protein": 22,
+        "carbs": 25,
+        "fat": 8
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Cottage Cheese Grill Plate + Sweet Potato",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 576,
+      "macros": {
+        "protein": 24,
+        "carbs": 51,
+        "fat": 12
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Paneer Masala Bowl + Brown Rice",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 703,
+      "macros": {
+        "protein": 36,
+        "carbs": 81,
+        "fat": 9
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Paneer Wrap + Basmati Rice",
+      "category": "vegetarian",
+      "mealType": "dinner",
+      "calories": 552,
+      "macros": {
+        "protein": 45,
+        "carbs": 53,
+        "fat": 6
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Eggs Masala Bowl + Millet",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 544,
+      "macros": {
+        "protein": 50,
+        "carbs": 80,
+        "fat": 15
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Tilapia Buddha Bowl + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 603,
+      "macros": {
+        "protein": 51,
+        "carbs": 32,
+        "fat": 17
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Tilapia Grill Plate + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 674,
+      "macros": {
+        "protein": 36,
+        "carbs": 41,
+        "fat": 19
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Shrimp Wrap + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 382,
+      "macros": {
+        "protein": 40,
+        "carbs": 82,
+        "fat": 9
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Tilapia Skillet + Whole Wheat Roti",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 643,
+      "macros": {
+        "protein": 34,
+        "carbs": 93,
+        "fat": 11
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Black Beans Grill Plate + Basmati Rice",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 464,
+      "macros": {
+        "protein": 25,
+        "carbs": 30,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Cottage Cheese Salad Bowl + Quinoa",
+      "category": "vegetarian",
+      "mealType": "dinner",
+      "calories": 428,
+      "macros": {
+        "protein": 43,
+        "carbs": 70,
+        "fat": 8
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Kidney Beans Salad Bowl + Brown Rice",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 535,
+      "macros": {
+        "protein": 34,
+        "carbs": 74,
+        "fat": 23
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Tofu Grill Plate + Mixed Greens",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 444,
+      "macros": {
+        "protein": 52,
+        "carbs": 96,
+        "fat": 28
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Fish (Rohu) Salad Bowl + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 647,
+      "macros": {
+        "protein": 27,
+        "carbs": 77,
+        "fat": 27
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Tilapia Curry + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 604,
+      "macros": {
+        "protein": 34,
+        "carbs": 94,
+        "fat": 13
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Chickpeas Grill Plate + Cauli Rice",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 516,
+      "macros": {
+        "protein": 37,
+        "carbs": 39,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Tilapia Salad Bowl + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 500,
+      "macros": {
+        "protein": 38,
+        "carbs": 44,
+        "fat": 14
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Tofu Grill Plate + Quinoa",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 457,
+      "macros": {
+        "protein": 27,
+        "carbs": 58,
+        "fat": 15
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Eggs Stir Fry + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 523,
+      "macros": {
+        "protein": 31,
+        "carbs": 69,
+        "fat": 20
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Chicken Breast Buddha Bowl + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 636,
+      "macros": {
+        "protein": 36,
+        "carbs": 79,
+        "fat": 6
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Eggs Masala Bowl + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 600,
+      "macros": {
+        "protein": 54,
+        "carbs": 95,
+        "fat": 26
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Black Beans Grill Plate + Basmati Rice",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 708,
+      "macros": {
+        "protein": 25,
+        "carbs": 78,
+        "fat": 19
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Eggs Buddha Bowl + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 584,
+      "macros": {
+        "protein": 28,
+        "carbs": 52,
+        "fat": 19
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Turkey Buddha Bowl + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 715,
+      "macros": {
+        "protein": 38,
+        "carbs": 21,
+        "fat": 18
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Kidney Beans Masala Bowl + Quinoa",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 658,
+      "macros": {
+        "protein": 31,
+        "carbs": 40,
+        "fat": 28
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Shrimp Stir Fry + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 657,
+      "macros": {
+        "protein": 31,
+        "carbs": 80,
+        "fat": 22
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Fish (Rohu) Salad Bowl + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 613,
+      "macros": {
+        "protein": 31,
+        "carbs": 43,
+        "fat": 18
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Cottage Cheese Salad Bowl + Quinoa",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 509,
+      "macros": {
+        "protein": 35,
+        "carbs": 68,
+        "fat": 18
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Chicken Breast Buddha Bowl + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 701,
+      "macros": {
+        "protein": 40,
+        "carbs": 94,
+        "fat": 14
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Salmon Buddha Bowl + Millet",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 580,
+      "macros": {
+        "protein": 47,
+        "carbs": 47,
+        "fat": 11
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Kidney Beans Grill Plate + Quinoa",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 708,
+      "macros": {
+        "protein": 53,
+        "carbs": 48,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Fish (Rohu) Skillet + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 660,
+      "macros": {
+        "protein": 26,
+        "carbs": 80,
+        "fat": 17
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Eggs Wrap + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 727,
+      "macros": {
+        "protein": 29,
+        "carbs": 81,
+        "fat": 6
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chickpeas Wrap + Basmati Rice",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 625,
+      "macros": {
+        "protein": 49,
+        "carbs": 74,
+        "fat": 25
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Fish (Rohu) Curry + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 577,
+      "macros": {
+        "protein": 21,
+        "carbs": 30,
+        "fat": 24
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Cottage Cheese Salad Bowl + Whole Wheat Roti",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 716,
+      "macros": {
+        "protein": 18,
+        "carbs": 46,
+        "fat": 8
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Eggs Curry + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 475,
+      "macros": {
+        "protein": 46,
+        "carbs": 64,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Kidney Beans Curry + Mixed Greens",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 722,
+      "macros": {
+        "protein": 53,
+        "carbs": 58,
+        "fat": 12
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Tilapia Stir Fry + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 723,
+      "macros": {
+        "protein": 25,
+        "carbs": 91,
+        "fat": 9
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Lentils Curry + Basmati Rice",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 632,
+      "macros": {
+        "protein": 53,
+        "carbs": 27,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Kidney Beans Skillet + Whole Wheat Roti",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 635,
+      "macros": {
+        "protein": 28,
+        "carbs": 89,
+        "fat": 25
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Tofu Skillet + Sweet Potato",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 720,
+      "macros": {
+        "protein": 36,
+        "carbs": 79,
+        "fat": 17
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Lentils Curry + Quinoa",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 705,
+      "macros": {
+        "protein": 19,
+        "carbs": 22,
+        "fat": 25
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Fish (Rohu) Stir Fry + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 628,
+      "macros": {
+        "protein": 27,
+        "carbs": 24,
+        "fat": 12
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Fish (Rohu) Salad Bowl + Whole Wheat Roti",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 717,
+      "macros": {
+        "protein": 41,
+        "carbs": 63,
+        "fat": 21
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Shrimp Wrap + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 555,
+      "macros": {
+        "protein": 45,
+        "carbs": 52,
+        "fat": 23
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Black Beans Wrap + Millet",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 632,
+      "macros": {
+        "protein": 43,
+        "carbs": 62,
+        "fat": 22
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Black Beans Salad Bowl + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 715,
+      "macros": {
+        "protein": 49,
+        "carbs": 35,
+        "fat": 16
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Chickpeas Curry + Millet",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 400,
+      "macros": {
+        "protein": 43,
+        "carbs": 90,
+        "fat": 18
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Mutton (lean) Buddha Bowl + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 435,
+      "macros": {
+        "protein": 18,
+        "carbs": 25,
+        "fat": 12
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Mutton (lean) Buddha Bowl + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 700,
+      "macros": {
+        "protein": 23,
+        "carbs": 47,
+        "fat": 7
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Fish (Rohu) Stir Fry + Whole Wheat Roti",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 398,
+      "macros": {
+        "protein": 44,
+        "carbs": 32,
+        "fat": 26
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Chickpeas Wrap + Whole Wheat Roti",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 534,
+      "macros": {
+        "protein": 29,
+        "carbs": 73,
+        "fat": 7
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Chicken Breast Masala Bowl + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 670,
+      "macros": {
+        "protein": 51,
+        "carbs": 25,
+        "fat": 9
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Mutton (lean) Skillet + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 387,
+      "macros": {
+        "protein": 42,
+        "carbs": 96,
+        "fat": 24
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Turkey Stir Fry + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 709,
+      "macros": {
+        "protein": 48,
+        "carbs": 47,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Lentils Masala Bowl + Brown Rice",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 425,
+      "macros": {
+        "protein": 31,
+        "carbs": 35,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Chicken Breast Grill Plate + Millet",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 475,
+      "macros": {
+        "protein": 21,
+        "carbs": 66,
+        "fat": 28
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Tilapia Wrap + Quinoa",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 615,
+      "macros": {
+        "protein": 34,
+        "carbs": 26,
+        "fat": 28
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Chicken Breast Masala Bowl + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 579,
+      "macros": {
+        "protein": 37,
+        "carbs": 59,
+        "fat": 25
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Black Beans Masala Bowl + Cauli Rice",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 568,
+      "macros": {
+        "protein": 54,
+        "carbs": 76,
+        "fat": 21
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Tofu Salad Bowl + Quinoa",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 702,
+      "macros": {
+        "protein": 44,
+        "carbs": 81,
+        "fat": 18
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Eggs Wrap + Sweet Potato",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 411,
+      "macros": {
+        "protein": 39,
+        "carbs": 97,
+        "fat": 6
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Mutton (lean) Buddha Bowl + Millet",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 572,
+      "macros": {
+        "protein": 42,
+        "carbs": 68,
+        "fat": 25
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Cottage Cheese Wrap + Cauli Rice",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 544,
+      "macros": {
+        "protein": 34,
+        "carbs": 54,
+        "fat": 19
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Mutton (lean) Wrap + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 672,
+      "macros": {
+        "protein": 27,
+        "carbs": 55,
+        "fat": 23
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Chickpeas Stir Fry + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 575,
+      "macros": {
+        "protein": 30,
+        "carbs": 49,
+        "fat": 15
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Chicken Breast Skillet + Mixed Greens",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 510,
+      "macros": {
+        "protein": 18,
+        "carbs": 69,
+        "fat": 20
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Paneer Salad Bowl + Whole Wheat Pasta",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 499,
+      "macros": {
+        "protein": 43,
+        "carbs": 94,
+        "fat": 22
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Kidney Beans Salad Bowl + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 639,
+      "macros": {
+        "protein": 30,
+        "carbs": 44,
+        "fat": 12
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Paneer Wrap + Whole Wheat Roti",
+      "category": "vegetarian",
+      "mealType": "dinner",
+      "calories": 675,
+      "macros": {
+        "protein": 54,
+        "carbs": 65,
+        "fat": 18
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Black Beans Grill Plate + Whole Wheat Roti",
+      "category": "vegan",
+      "mealType": "breakfast",
+      "calories": 632,
+      "macros": {
+        "protein": 41,
+        "carbs": 33,
+        "fat": 17
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Cottage Cheese Curry + Quinoa",
+      "category": "vegetarian",
+      "mealType": "dinner",
+      "calories": 685,
+      "macros": {
+        "protein": 19,
+        "carbs": 64,
+        "fat": 14
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Mutton (lean) Stir Fry + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 484,
+      "macros": {
+        "protein": 54,
+        "carbs": 82,
+        "fat": 24
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Salmon Wrap + Millet",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 429,
+      "macros": {
+        "protein": 46,
+        "carbs": 95,
+        "fat": 25
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Eggs Salad Bowl + Brown Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 472,
+      "macros": {
+        "protein": 42,
+        "carbs": 30,
+        "fat": 6
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Chicken Breast Salad Bowl + Whole Wheat Pasta",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 629,
+      "macros": {
+        "protein": 22,
+        "carbs": 96,
+        "fat": 26
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Kidney Beans Stir Fry + Quinoa",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 543,
+      "macros": {
+        "protein": 54,
+        "carbs": 49,
+        "fat": 26
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Kidney Beans Buddha Bowl + Whole Wheat Pasta",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 609,
+      "macros": {
+        "protein": 28,
+        "carbs": 67,
+        "fat": 13
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Tofu Wrap + Brown Rice",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 410,
+      "macros": {
+        "protein": 53,
+        "carbs": 23,
+        "fat": 7
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Cottage Cheese Skillet + Whole Wheat Pasta",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 431,
+      "macros": {
+        "protein": 27,
+        "carbs": 60,
+        "fat": 6
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Fish (Rohu) Skillet + Millet",
+      "category": "nonVegetarian",
+      "mealType": "breakfast",
+      "calories": 621,
+      "macros": {
+        "protein": 38,
+        "carbs": 67,
+        "fat": 14
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Paneer Skillet + Sweet Potato",
+      "category": "vegetarian",
+      "mealType": "snack",
+      "calories": 466,
+      "macros": {
+        "protein": 46,
+        "carbs": 50,
+        "fat": 10
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Turkey Masala Bowl + Basmati Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 492,
+      "macros": {
+        "protein": 22,
+        "carbs": 67,
+        "fat": 10
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Paneer Masala Bowl + Mixed Greens",
+      "category": "vegetarian",
+      "mealType": "breakfast",
+      "calories": 611,
+      "macros": {
+        "protein": 39,
+        "carbs": 61,
+        "fat": 13
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Paneer Curry + Sweet Potato",
+      "category": "vegetarian",
+      "mealType": "dinner",
+      "calories": 493,
+      "macros": {
+        "protein": 21,
+        "carbs": 43,
+        "fat": 28
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Shrimp Skillet + Whole Wheat Roti",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 516,
+      "macros": {
+        "protein": 44,
+        "carbs": 72,
+        "fat": 13
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Chicken Breast Wrap + Millet",
+      "category": "nonVegetarian",
+      "mealType": "dinner",
+      "calories": 465,
+      "macros": {
+        "protein": 34,
+        "carbs": 82,
+        "fat": 9
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Turkey Stir Fry + Cauli Rice",
+      "category": "nonVegetarian",
+      "mealType": "lunch",
+      "calories": 642,
+      "macros": {
+        "protein": 21,
+        "carbs": 47,
+        "fat": 23
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.allrecipes.com/"
+    },
+    {
+      "name": "Black Beans Stir Fry + Millet",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 483,
+      "macros": {
+        "protein": 41,
+        "carbs": 75,
+        "fat": 14
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    },
+    {
+      "name": "Kidney Beans Stir Fry + Basmati Rice",
+      "category": "vegan",
+      "mealType": "snack",
+      "calories": 528,
+      "macros": {
+        "protein": 44,
+        "carbs": 40,
+        "fat": 7
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.vegrecipesofindia.com/"
+    },
+    {
+      "name": "Tofu Skillet + Brown Rice",
+      "category": "vegan",
+      "mealType": "dinner",
+      "calories": 641,
+      "macros": {
+        "protein": 26,
+        "carbs": 76,
+        "fat": 6
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Eggs Salad Bowl + Whole Wheat Roti",
+      "category": "nonVegetarian",
+      "mealType": "snack",
+      "calories": 400,
+      "macros": {
+        "protein": 44,
+        "carbs": 47,
+        "fat": 14
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.healthline.com/nutrition"
+    },
+    {
+      "name": "Tofu Curry + Whole Wheat Roti",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 469,
+      "macros": {
+        "protein": 30,
+        "carbs": 96,
+        "fat": 8
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "link": "https://www.bbcgoodfood.com/"
+    },
+    {
+      "name": "Kidney Beans Wrap + Cauli Rice",
+      "category": "vegan",
+      "mealType": "lunch",
+      "calories": 485,
+      "macros": {
+        "protein": 26,
+        "carbs": 98,
+        "fat": 27
+      },
+      "allergens": [
+        "none"
+      ],
+      "link": "https://www.indianhealthyrecipes.com/"
+    }
+  ]
+}
